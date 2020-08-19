@@ -1,0 +1,2 @@
+Train Accuracy:
+feat_100__2_layer_[100, 80, 80, 1]_epoch_300_drop_0.5_lr_0.1	0.9006699

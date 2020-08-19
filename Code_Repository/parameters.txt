@@ -1,0 +1,6 @@
+resp_file='../data/response_T_final.xlsx'
+feature_file='../data/expression_final3.xlsx'
+learning_rate=0.1
+training_epochs=600
+batch_size=16
+display_step=100
